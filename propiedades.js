@@ -1,9 +1,9 @@
-/* ============================================================
-   AKPROP — Fuente única de propiedades destacadas
-   Editar SOLO este archivo. Lo consumen todas las landings vía
+﻿/* ============================================================
+   AKPROP — Fuente única de propiedades destacadas.
+   Editá SOLO este archivo. Lo usan todas las landings vía
    <script src="https://data.akprop.com.ar/propiedades.js">.
-   Un <script src> cross-origin no está sujeto a CORS: cambiás
-   acá y se actualiza en las 4 landings al siguiente reload.
+   Cambiás acá y se actualiza en las 4 landings al recargar.
+   Escribí normal (con acentos, ·, m²): el archivo se sirve en UTF-8.
    ============================================================ */
 window.AKPROP_PROPIEDADES = [
   {
